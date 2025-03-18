@@ -1,0 +1,26 @@
+input: I see a charge on my credit card statement but I paid on time, why?
+category: <|begin_of_text|>Below are some instructions that describe some tasks. Write responses that appropriately complete each request.
+
+### Instruction:
+I see a charge on my credit card statement but I paid on time, why?
+
+### Response:
+15<|eot_id|>
+
+input: Do you have a branch in Timbuktu?
+category: <|begin_of_text|>Below are some instructions that describe some tasks. Write responses that appropriately complete each request.
+
+### Instruction:
+Do you have a branch in Timbuktu?
+
+### Response:
+24<|eot_id|>
+
+input: I lost my card and my replacement card has not arrived.
+category: <|begin_of_text|>Below are some instructions that describe some tasks. Write responses that appropriately complete each request.
+
+### Instruction:
+I lost my card and my replacement card has not arrived.
+
+### Response:
+11<|eot_id|>
